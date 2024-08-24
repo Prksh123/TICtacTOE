@@ -68,7 +68,7 @@ h1{
     flex-direction: column;
     gap: 2rem;
     margin-bottom: 12rem;
-    margin-top: 4rem;
+    margin-top: 5rem;
 }
 .hide{
     display: none;
