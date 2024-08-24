@@ -69,6 +69,7 @@ h1{
     gap: 2rem;
     margin-bottom: 12rem;
     margin-top: 5rem;
+    padding-top: 1rem;
 }
 .hide{
     display: none;
